@@ -1,0 +1,7 @@
+.env
+dev.env
+test.env
+links.txt
+node_modules
+.vscode
+coverage
